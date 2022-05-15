@@ -1,0 +1,17 @@
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\StateMachine.exe
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\StateMachine.deps.json
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\StateMachine.runtimeconfig.json
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\StateMachine.dll
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\StateMachine.pdb
+D:\LagDaemonProgramming\StateMachine\StateMachine\bin\Debug\net6.0\FluentResults.dll
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.csproj.AssemblyReference.cache
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.AssemblyInfoInputs.cache
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.AssemblyInfo.cs
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.csproj.CoreCompileInputs.cache
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.csproj.CopyComplete
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.dll
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\refint\StateMachine.dll
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.pdb
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\StateMachine.genruntimeconfig.cache
+D:\LagDaemonProgramming\StateMachine\StateMachine\obj\Debug\net6.0\ref\StateMachine.dll

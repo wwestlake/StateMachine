@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StateMachine/1.0.0": {
+        "dependencies": {
+          "FluentResults": "3.5.0"
+        },
+        "runtime": {
+          "StateMachine.dll": {}
+        }
+      },
+      "FluentResults/3.5.0": {
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StateMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResults/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lAAigAhVw3RBPQHhjmMbkdYmZUy5PViBkVXjzSyZrVhvsDtFJGPsiEK/KDvENIzemtzQ2y5/WOMERPg8l87iJg==",
+      "path": "fluentresults/3.5.0",
+      "hashPath": "fluentresults.3.5.0.nupkg.sha512"
+    }
+  }
+}
